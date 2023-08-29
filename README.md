@@ -1,6 +1,6 @@
 # flash_chat
 
-A new Flutter project.
+A simple chat app developed using flutter and firebase.
 
 ## Getting Started
 

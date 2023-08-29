@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221776206121",
+    "project_id": "chef-buddy-74e28",
+    "storage_bucket": "chef-buddy-74e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221776206121:android:5a863087c31b9f391e7f38",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221776206121-p1de6o41jb6mnl0tld2mvmrl0rhcljgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4mqiY89sDeAg2Av3m-8NpO3Q30OGjmG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221776206121-p1de6o41jb6mnl0tld2mvmrl0rhcljgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
